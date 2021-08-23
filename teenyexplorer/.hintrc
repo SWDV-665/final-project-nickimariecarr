@@ -1,0 +1,10 @@
+{
+    "connector": {...},
+    "formatters": [...],
+    "hints": {
+        "meta-viewport": "error",
+        ...
+    },
+    "parsers": [...],
+    ...
+}

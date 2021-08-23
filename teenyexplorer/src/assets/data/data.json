@@ -1,0 +1,210 @@
+{
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "time": "9:15 am",
+          "sessions": [
+            {
+              "name": "Go geocaching",
+              "description": "A gigantic outdoor treasure hunt with millions of prize-filled containers hidden around the world, geocaching is a fantastic way to get the family outside, discover new sites in your town, and teach kids about navigation. Just create a free account at geocaching.com.",
+              "tracks": ["Food"],
+              "id": "1"
+            },
+            {
+              "name": " Play a parents-versus-kids soccer game",
+              "description": "Gather a handful of families and head to your nearest field or park for a friendly game of parents-versus-kids soccer. ",
+
+              "tracks": ["Food"],
+              "id": "1"
+            },
+            {
+              "name": "Do a family fun run, walk, or ride",
+              "description":"Enter a 5K, 3K or even just a 1K run, walk, or bike ride with your whole famil.",
+
+              "tracks": ["Food"],
+              "id": "1"
+            },
+          {
+            "name": "Build a backyard bonfire",
+            "description": "Build a fire and have some summer fun, and fall. Bonfires are always great memories. You can toast smores, swap scary stories, tell riddles and jokes, or bust out a guitar and get everyone singing along. You can also use the opportunity to teach your kids how to safely build a fire, so they’ll be ready for next year’s camping trip.",
+
+            "tracks": ["Food"],
+            "id": "1"
+          },
+          {
+            "name": "Make a scarecrow",
+            "description": "Fall time means fun time! Get some corn stalks old clothes and build a scarecrow. Let the kids get creative. You can even see who can build the biggest one! you’ll need a 6-foot-long 2-by-4 board, a 4-foot 2-by-4 board, old jeans, an old button-down shirt, a burlap sack for his head, gardening gloves, old boots, and of course hay .",
+
+            "tracks": ["Food"],
+            "id": "1"
+          },
+          {
+            "name": "Build a giant Jenga set in the backyard",
+            "description": "You’ll need a piece of plyboard to make the base, plus enough 2-by-4s for 54 game pieces. Have fun and paint them different colors and exciting designs. This giant jenga will make incredible memories building it and playing with it for years to come.",
+
+            "tracks": ["Food"],
+            "id": "1"
+          },
+          {
+            "name": "Plan a neighborhood scavenger hunt",
+            "description": "Make the hunt as easy or as challenging as you want, depending on kids’ ages. Then on the big day, dole out lists of every item the children need to find and set them loose",
+
+            "tracks": ["Food"],
+            "id": "1"
+          },
+          {
+            "name": "Go Stargaze",
+            "description": "Grab a blanket, some warm drinks, and find a place where it is dark and quiet. Let the kids lay on a blanket and stare at the stars. They will love seeing the constellations and you can use this as a learning experience..",
+
+            "tracks": ["Food"],
+            "id": "1"
+          }
+          ]
+        },
+        {
+          "time": "10:00 am",
+          "sessions": [
+            {
+              "name": "Make A Trampoline Water Park.",
+              "description": "Cool off your bouncing techniques with a sprinkler under the trampoline when it's warm outside.",
+
+              "tracks": ["Food"],
+              "id": "1"
+            },
+            {
+              "name": "Photograph Flowers",
+              "description": "Putting a camera in a child's hands will open their eyes up to new things. Let them photograph flowers from their special perspective.",
+
+              "tracks": ["Food"],
+              "id": "1"
+            },
+            {
+              "name": "Build a Laundry Line Tent",
+              "description": "For reading, naps or just playing hide-and-seek you can throw a sheet over a laundry line for instant fun.",
+
+              "tracks": ["Food"],
+              "id": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "speakers": [
+    {
+      "name": "Mama and Me Make Nature Bags",
+      "time": "August 29th, 2021 at 3:00pm",
+      "about": "This event will be at Huron Metro Park in New Boston Michigan. It will be $5 for children to participate. Each child will get a bag, and supplies. To sign up, please contact Teeny Tiny Adventurers by calling or texting. You can find our number by clicking the icon in the top right of this page",
+      "title": "Host: Teeny Tiny Explorers",
+      "location": "Huron Metro Park in New Boston MI",
+      "email": "teenytinyexplorers@gmail.com",
+      "phone": "+1-541-754-3399",
+      "id": "1"
+    },
+    {
+      "name": "Toddler Cooking Class",
+      "time": "September 4th, 2021 at 3:00pm",
+      "about": "What is more fun than having a toddler learn how to cook meals and snacks that are not only healthy, but easy to make and clean up. Less mess, less stress, and teaching your child eating fresh fruits and veggies does not have to be boring. To get more details on this event, go to thateverydaymama.com. You can also contact the host by going to the contact options below",
+      "title": "Host: That Everyday Mama",
+      "location": "Online",
+      "email": "thateverydaymama@gmail.com",
+      "phone": "+1-818-754-0099",
+      "id": "2"
+    },
+    {
+      "name": "Boo-tiful bugs",
+      "time": "October 12th, 2021 at 1:00pm",
+      "about": "It is time to go on a hunt, and find some boo-tiful bugs! The kids are welcome to dress in costumes as we go bug hunting at Huron Metro Park and do some bug identifying. Each child will get a magnifying glass, and carry case with everything they need. The cost for this event is $3 and that is soley to cover the cost of the kits. To join this event go to thateverydaymama.com or contact the host at the number in the contact or the email, at the bottom of the page here.",
+      "title": "Host: That Everyday Mama",
+      "location": "Huron Metro Park New Boston , Michigan ",
+      "email": "thateverydaymama@gmail.com",
+      "phone": "+1-818-754-0099",
+      "id": "3"
+    },
+    {
+      "name": "Painting with leafs",
+      "time": "October 4th, 2021 at 4:00pm",
+      "about": "The leaves are starting to fall in October and they are always so beautiful to watch! Join Teeny Tiny Explorers at Bishop Park in Wyandotte Michigan and make some beautiful art pieces using the beautiful fall leafs around us Reach out to the host at thateverydaymam.com to join, or contact them via phone or email from below. There is no fee for this event and all supplies will be provided",
+      "title": "Host: That Everyday Mama",
+      "location": "Bishop Park Wyandotte Michigan",
+      "email": "thateverydaymama@gmail.com",
+      "phone": "+1-818-754-0099",
+      "id": "4"
+    },
+    {
+      "name": "Falling in love with nature",
+      "time": "October 25th, 2021 at 5:00pm",
+      "about": "This event will be at Huron Metro Park in New Boston Michigan. It will be $5 for children to participate. Each child will get a bag, and supplies. To sign up, please contact Teeny Tiny Adventurers by calling or texting. You can find our number by clicking the icon in the top right of this page. At this event all of the attendees will be having a little camp for a couple hours as we watch the sun set and have a movie projector up. We expect it to be chilly as it's October, so please dress accordingly",
+      "title": "Host: Teeny Tiny Explorers",
+      "location": "Huron Metro Park in New Boston MI",
+      "email": "teenytinyexplorers@gmail.com",
+      "phone": "+1-541-754-3399",
+      "id": "5"
+    }
+  ],
+
+  "map": [
+    {
+      "name": "Monona Terrace Convention Center",
+      "lat": 43.071584,
+      "lng": -89.38012,
+      "center": true
+    },
+    {
+      "name": "Ionic HQ",
+      "lat": 43.074395,
+      "lng": -89.381056
+    },
+    {
+      "name": "Afterparty - Brocach Irish Pub",
+      "lat": 43.07336,
+      "lng": -89.38335
+    }
+  ],
+
+  "tracks": [
+    {
+      "name": "Angular",
+      "icon": "logo-angular"
+    },
+    {
+      "name": "Documentation",
+      "icon": "document"
+    },
+    {
+      "name": "Food",
+      "icon": "restaurant"
+    },
+    {
+      "name": "Ionic",
+      "icon": "logo-ionic"
+    },
+    {
+      "name": "Tooling",
+      "icon": "hammer"
+    },
+    {
+      "name": "Design",
+      "icon": "color-palette"
+    },
+    {
+      "name": "Services",
+      "icon": "cog"
+    },
+    {
+      "name": "Workshop",
+      "icon": "construct"
+    },
+    {
+      "name": "Communication",
+      "icon": "call"
+    },
+    {
+      "name": "Navigation",
+      "icon": "compass"
+    }
+  ]
+}

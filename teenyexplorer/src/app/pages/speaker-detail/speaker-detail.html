@@ -1,0 +1,61 @@
+<ion-content class="speaker-detail">
+  <ion-header class="ion-no-border">
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-back-button defaultHref="/app/tabs/speakers"></ion-back-button>
+      </ion-buttons>
+    </ion-toolbar>
+  </ion-header>
+
+  <div class="speaker-background" style="text-align: center" style="background-color:  #2C4742;">
+    <h2><i>{{speaker?.name}}</i></h2>
+  </div>
+
+  <div class="ion-padding speaker-detail">
+    <p><b>About:</b> <p>{{speaker?.about}}
+    <p><b> Date & Time:</b> <p>{{speaker?.time}}
+
+  <hr>
+
+
+    <p>Look for more events on Teeny Tiny Explorers Social Media Pages!</p>
+    <ion-chip color="dark" button (click)="openExternalUrl('https://www.facebook.com/groups/661991144777726')">
+      <ion-icon name="logo-Facebook"></ion-icon>
+      <ion-label>Facebook</ion-label>
+    </ion-chip>
+
+    <ion-chip color="dark" button (click)="openExternalUrl('https://instagram.com/theteenytinyexplorers')">
+      <ion-icon name="logo-instagram"></ion-icon>
+      <ion-label>Instagram</ion-label>
+    </ion-chip>
+  <hr>
+    <p><b>Contact:</b></p>
+    <ion-buttons *ngIf="speaker" slot="end">
+      <ion-button (click)="openCall(speaker)">
+      <ion-icon slot="icon-only" ios="call-outline" md="call-sharp"></ion-icon> Call Us</ion-button>
+    </ion-buttons>
+    <ion-buttons *ngIf="speaker" slot="end">
+      <ion-button (click)="openEmail(speaker)">
+          <ion-icon name="mail"></ion-icon>Email Us</ion-button>
+    </ion-buttons>
+
+
+  </div>
+
+  <ion-fab slot="fixed" vertical="bottom" horizontal="end" #fab>
+    <ion-fab-button>
+      <ion-icon name="share-social"></ion-icon>
+    </ion-fab-button>
+    <ion-fab-list side="top">
+      <ion-fab-button color="instagram" (click)="openSocial('Instagram', fab)">
+        <ion-icon name="logo-instagram"></ion-icon>
+      </ion-fab-button>
+      <ion-fab-button color="twitter" (click)="openSocial('Twitter', fab)">
+        <ion-icon name="logo-twitter"></ion-icon>
+      </ion-fab-button>
+      <ion-fab-button color="facebook" (click)="openSocial('Facebook', fab)">
+        <ion-icon name="logo-facebook"></ion-icon>
+      </ion-fab-button>
+    </ion-fab-list>
+  </ion-fab>
+</ion-content>
